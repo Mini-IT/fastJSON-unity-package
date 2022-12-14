@@ -1,6 +1,6 @@
 # fastJSON Unity Package
 
-[fastJSON](https://github.com/mgholam/fastJSON) wraper for unity
+[fastJSON](https://github.com/mgholam/fastJSON) wrapper for unity
 
 ## Installation guide
 
